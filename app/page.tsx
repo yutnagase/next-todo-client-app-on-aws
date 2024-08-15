@@ -47,7 +47,7 @@ export default function Home() {
     <div className="max-w-md mx-auto bg-white shadow-lg rounded-lg overflow-hidden mt-32 py-4 px-4">
       <div className="px-4 py-2">
         <h1 className="text-gray-800 font-bold text-2xl uppercase">
-          To-Do List
+          TODO リスト
         </h1>
       </div>
       <form
